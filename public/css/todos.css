@@ -1,0 +1,52 @@
+body{
+    background-color:#f9de56;
+}
+
+
+.completed{
+    text-decoration: line-through;
+    color: green;
+}
+.not{
+    text-decoration: underline;
+    color: red;
+}
+
+.todoItem {
+    border: 3px solid black;
+}
+
+#barista {
+    height: auto;
+    width: 400px;
+}
+
+.contain {
+    border: 2px solid black;
+}
+
+.center-to {
+    font-size: 20px;
+}
+
+.card {
+    border: 1px solid gray;
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.small-box {
+    display:flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#add {
+    background-color: #6E260E;
+    color: white;
+    border-radius: 10px;
+}
